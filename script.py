@@ -53,6 +53,3 @@ ssh_connect.exit_enable_mode()
 # close the whole ssh connection
 ssh_connect.disconnect()
 print("disconnect successfully.")
-
-
-
