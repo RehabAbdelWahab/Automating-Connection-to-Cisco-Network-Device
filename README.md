@@ -12,4 +12,4 @@
 
 
 # run the script:
-$ python script.py
+- $ python script.py
