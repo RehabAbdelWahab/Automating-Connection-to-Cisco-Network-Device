@@ -7,8 +7,8 @@
 
 
 # install required libraries by run:
-$ pip install pwinput
-$ pip install netmiko
+- $ pip install pwinput
+- $ pip install netmiko
 
 
 # run the script:
